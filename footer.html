@@ -1,0 +1,29 @@
+
+ <!-- Footer
+================================================== -->
+
+ <footer class="footer row">
+  <div id="bottom-panel" class="clearfix">
+  <span class="site-name"> Privacy  ::  Advertise with us  ::  </span>
+  <span>Copyright &copy; 2016 BigMathBook.com</span></div>
+  
+  </footer>
+	</div><!-- /container -->
+	
+	<script>
+	
+	jQuery(document).ready(function($){
+
+	/* prepend menu icon */
+	$('#nav-wrap').prepend('<div id="menu-icon">Menu</div>');
+	
+	/* toggle nav */
+	$("#menu-icon").on("click", function(){
+		$("#nav").slideToggle();
+		$(this).toggleClass("active");
+	});
+
+});
+	</script>
+  </body>
+</html>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.bigmathbook.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/index.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheetsample.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/signup.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/login.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/contact.php</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=1</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=2</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=3</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=6</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=10</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=11</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=13</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?cat=17</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/eng1.pdf</loc>
+  <lastmod>2016-02-05T04:18:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/eng2.pdf</loc>
+  <lastmod>2016-02-05T04:18:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/eng3.pdf</loc>
+  <lastmod>2016-02-05T04:18:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/eng4.pdf</loc>
+  <lastmod>2016-02-05T04:18:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/eng5.pdf</loc>
+  <lastmod>2016-02-05T04:18:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/math1.pdf</loc>
+  <lastmod>2016-02-05T04:18:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/math2.pdf</loc>
+  <lastmod>2016-02-05T04:18:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/math3.pdf</loc>
+  <lastmod>2016-02-05T04:18:23+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/math4.pdf</loc>
+  <lastmod>2016-02-05T04:18:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/worksheets/math5.pdf</loc>
+  <lastmod>2016-02-05T04:18:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/forgetuser.php</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/forgetpw.php</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?grade=Pre-K</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?grade=K</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?grade=1</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?grade=2</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?grade=3</loc>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://www.bigmathbook.com/gradeindex.php?grade=4</loc>
+  <priority>0.51</priority>
+</url>
+</urlset>
